@@ -1,0 +1,2 @@
+# My Jarvis
+My JARVIS is a personal AI voice assistant designed to provide a smart, interactive, and futuristic user experience. It can listen to voice commands, understand user requests, respond using natural speech, and perform different tasks. JARVIS includes a professional robotic interface with an animated initialization sequence, personalized greetings, voice recognition, command processing, and real-time system feedback.
